@@ -3,7 +3,7 @@ layout: page
 title: Home
 permalink: /home/
 ---
-![](/images/appstore.png) {: width="auto" height="30%"}
+![](/images/appstore.png){: width="30%" height="30%"}
   
 When your to-do list gets bigger and complex, you need more than a simple check list.  
 You’ll want to organize them so that you know what to do next.  
