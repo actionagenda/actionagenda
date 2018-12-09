@@ -3,8 +3,8 @@ layout: page
 title: Home
 permalink: /home/
 ---
-<img style="float: right; width:auto; height:50%;" src="/images/appstore.png" ><br>
-
+![](/images/appstore.png)  
+  
 When your to-do list gets bigger and complex, you need more than a simple check list.  
 You’ll want to organize them so that you know what to do next.  
 You'll want to schedule it to be a calendar event if needed.  
