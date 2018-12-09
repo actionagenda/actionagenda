@@ -3,6 +3,8 @@ layout: page
 title: Home
 permalink: /home/
 ---  
+![](/images/overview.png){: width="50%" height="50%"}]
+
 When your to-do list gets bigger and complex, you need more than a simple check list.  
 You’ll want to organize them so that you know what to do next.  
 You'll want to schedule it to be a calendar event if needed.  
