@@ -3,7 +3,7 @@ layout: page
 title: Home
 permalink: /home/
 ---
-<img style="float: right;" src="/images/appstore.png"><br>
+<img style="float: right;" src="/images/appstore.png" width: auto;  height: 50%><br>
 
 When your to-do list gets bigger and complex, you need more than a simple check list.  
 You’ll want to organize them so that you know what to do next.  
