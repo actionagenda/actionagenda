@@ -7,10 +7,9 @@ When your to-do list gets bigger and complex, you need more than a simple check 
 You’ll want to organize them so that you know what to do next.  
 You’ll want to make a calendar event from it.  
 You’ll want to overview what’s coming up in real time.  
-ActionAgenda is a hybrid calendar and to-do planner packed with features.  
+ActionAgenda is a hybrid calendar and to-do planner based on GTD (Getting Things Done) methodology which can free you from stress of managing complex tasks.
 
-### GTD (Getting Things Done) is a proven methodology to free you from stress of managing complex tasks and  
-here’s short how-tos on using GTD with ActionAgenda:
+### Here’s short how-tos on using GTD with ActionAgenda:
 
 1. Put whatever comes to your mind in “Inbox” tab
 2. Do simple actionable stuffs right away (tap on checkbox to complete)
