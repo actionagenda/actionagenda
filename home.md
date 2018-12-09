@@ -73,5 +73,5 @@ GTD® and Getting Things Done® are registered trademarks of the David Allen Com
 ActionAgenda and Appeople are not affiliated with or endorsed by the David Allen Company.
   
 {: refdef: style="text-align: center;"}
-![](/images/appstore.png){: width="30%" height="30%"}
+[![](/images/appstore.png){: width="30%" height="30%"}](http://itunes.apple.com/us/app/actionagenda-gtd-planner-calendar/id502372921?mt=8&uo=4)
 {: refdef}
