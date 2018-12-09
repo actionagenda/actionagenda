@@ -13,7 +13,7 @@ Calendar syncs with iOS Calendars which syncs with Google, Yahoo, and MS Exchang
 To-do list syncs with iOS Reminders and Toodledo at the same time.  
 GTD (Getting Things Done) is a proven methodology to free you from stress of managing complex tasks.  
 
-### ◆ Here’s short how-tos on using GTD with ActionAgenda: 
+#### Here’s short how-tos on using GTD with ActionAgenda: 
 
 1. Put whatever comes to your mind in “Inbox” tab
 2. Do simple actionable stuffs right away (tap on checkbox to complete)
@@ -22,55 +22,55 @@ GTD (Getting Things Done) is a proven methodology to free you from stress of man
 5. Make use of context and tag for further categorizing (drag it to “Context”, “Tag” tab)
 6. Schedule it if it has a hard due date (drag it to “Scheduled” tab)
 7. Make an appointment by drag & dropping to “Calendar”
-8. Don’t forget to review regularly to keep your trusted system current,
-so that you know when, where, and how they can be done fast and easily.
+8. Don’t forget to review regularly to keep your trusted system current, so that you know when, where, and how they can be done fast and easily.
 
-◆◆ Features ◆◆ 
+#### Features:
 
-◆ Integrated to-do & calendar management
-– Calendar shows events and to-dos at the same time
-– Drag & drop to convert to-do to event and vice versa
-– Custom repeating option for calendar events and iOS Reminders
+◆ Integrated to-do & calendar management  
+– Calendar shows events and to-dos at the same time  
+– Drag & drop to convert to-do to event and vice versa  
+– Custom repeating option for calendar events and iOS Reminders  
 
-◆ GTD-powered to-do system
-– Supports GTD tabs : “Inbox”, “Focus”, “Scheduled”, “Project”, “Context”, and “Tag”
-– Tabs are automatically sorted and filtered by customizable setting
-– Drag & drop to move to other tabs or change properties
-– Supports repeating to-dos & alarms
+◆ GTD-powered to-do system  
+– Supports GTD tabs : “Inbox”, “Focus”, “Scheduled”, “Project”, “Context”, and “Tag”  
+– Tabs are automatically sorted and filtered by customizable setting  
+– Drag & drop to move to other tabs or change properties  
+– Supports repeating to-dos & alarms  
 
-◆ Manage subtasks in project
-– Outline to-dos in project up to 5 depth
+◆ Manage subtasks in project  
+– Outline to-dos in project up to 5 depth  
 – Move or indent to handle sub to-dos
 
-◆ Essential to-do sorting, filtering, and searching features
-– Sort by title, starred, priority, due date, completed date, added date, modified date, project, context, and tag
-– Supports manual sorting
-– Filter by completed, starred, priority, due date, project, context, and tag
-– Search for title, note, project, context, tag name, and event location
+◆ Essential to-do sorting, filtering, and searching features  
+– Sort by title, starred, priority, due date, completed date, added date, modified date, project, context, and tag  
+– Supports manual sorting  
+– Filter by completed, starred, priority, due date, project, context, and tag  
+– Search for title, note, project, context, tag name, and event location  
 
-◆ Various calendar views
-– “Day view” where events or to-dos can be added or moved easily
-– “Week view” shows full week’s events and to-dos
-– “Month view” shows full month’s events and to-dos
-– “Month/Week view” which enables fast navigation and item preview
-– “List view” where events and to-dos are shown in a list format, and also provides search facility for dated to-dos and events
-– Calendar filtering and custom coloring
+◆ Various calendar views  
+– “Day view” where events or to-dos can be added or moved easily  
+– “Week view” shows full week’s events and to-dos  
+– “Month view” shows full month’s events and to-dos  
+– “Month/Week view” which enables fast navigation and item preview  
+– “List view” where events and to-dos are shown in a list format, and also provides search facility for dated to-dos and events  
+– Calendar filtering and custom coloring  
 
-◆ Sync
-– Automatic sync to-dos with Toodledo
-– Live sync with iOS Reminders (includes iCloud, Exchange, Hotmail, Yahoo and etc)
-– Live sync with iOS calendars (includes iCloud, Exchange, Google, Hotmail, CalDav, Subscribed calendars and etc.)
-– iCloud sync for settings and other data between devices
+◆ Sync  
+– Automatic sync to-dos with Toodledo  
+– Live sync with iOS Reminders (includes iCloud, Exchange, Hotmail, Yahoo and etc)  
+– Live sync with iOS calendars (includes iCloud, Exchange, Google, Hotmail, CalDav, Subscribed calendars and etc.)  
+– iCloud sync for settings and other data between devices  
 
-◆ Other features
-– Application badge
-– Full landscape support
-– Group actions for multiple to-dos
-– Theme support
-– Changeable font size
-– Data transfer from lite to full version
-– Weather info provided by OpenWeatherMap
-– Universal app : supports iPhone and iPad natively
-– Supports today widget
+◆ Other features  
+– Application badge  
+– Full landscape support  
+– Group actions for multiple to-dos  
+– Theme support  
+– Changeable font size  
+– Data transfer from lite to full version  
+– Weather info provided by OpenWeatherMap  
+– Universal app : supports iPhone and iPad natively  
+– Supports today widget  
 
-GTD® and Getting Things Done® are registered trademarks of the David Allen Company. ActionAgenda and Appeople are not affiliated with or endorsed by the David Allen Company.
+GTD® and Getting Things Done® are registered trademarks of the David Allen Company.  
+ActionAgenda and Appeople are not affiliated with or endorsed by the David Allen Company.
