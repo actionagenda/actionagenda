@@ -3,7 +3,8 @@ layout: page
 title: Home
 permalink: /home/
 ---
-![Donwload on the App Store](/images/appstore.png "Donwload on the App Store") {:.alignright}
+<img style="float: right;" src="/images/appstore.png">
+
 When your to-do list gets bigger and complex, you need more than a simple check list.  
 You’ll want to organize them so that you know what to do next.  
 You'll want to schedule it to be a calendar event if needed.  
