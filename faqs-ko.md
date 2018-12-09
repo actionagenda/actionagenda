@@ -38,19 +38,19 @@ permalink: /faqs-ko/
 
 **<a name="a2"></a>◆ iOS 캘린더와 구글 캘린더는 어떻게 동기화 하나요?**
 > iOS 캘린더를 구글 캘린더와 동기화하려면 다음 구글 가이드를 참조하세요 :
-> Apple 기기 Google Sync 설정
+> [Apple 기기 Google Sync 설정](http://support.google.com/mobile/bin/answer.py?hl=ko&answer=138740)
 
 **<a name="a3"></a>◆ 날씨 정보가 표시되지 않거나 부정확합니다**
 > 날씨 정보는 openweathermap.org 에서 제공되는 무료 서비스를 이용하다보니 지역 커버리지나 정확도가 다소 떨어집니다.
 > 날씨 정보가 아예 표시되지 않는 경우는 근처의 다른 도시를 지정하거나 근처 다른 동 이름을 지정해보시기 바랍니다.
 
 **<a name="a4"></a>◆ 할일들을 Toodledo 와 어떻게 동기화 하나요?**
-> Toodledo 웹사이트 에서 등록(register) 한 후에 ActionAgenda 설정창에서 Toodledo 이메일 로그인과 비밀번호를 입력하시면 됩니다.
+> [Toodledo 웹사이트](http://www.toodledo.com/) 에서 등록(register) 한 후에 ActionAgenda 설정창에서 Toodledo 이메일 로그인과 비밀번호를 입력하시면 됩니다.
 
 **<a name="a5"></a>◆ GTD 란 무엇인가요?**
 > Getting things done (GTD) 은 David Allen 에 의해 만들어진 효율적인 할일 관리 시스템입니다. 할일들을 머리속에서 꺼내어 정리 시스템에 넣고 잘 활용하는 방법론입니다.
 > GTD 에 관한 더 많은 정보는 다음 위키피디아를 확인하세요 :
-> Getting Things Done – Wikipedia
+> [Getting Things Done – Wikipedia](http://ko.wikipedia.org/wiki/Getting_Things_Done)
 
 **<a name="a6"></a>◆ 음력 기념일은 어떻게 추가 하나요?**
 > ActionAgenda 자체에 음력 기념일 추가 기능은 없지만 네이버 캘린더 등을 이용해 음력 기념일을 사용할 수 있습니다.
@@ -65,7 +65,7 @@ permalink: /faqs-ko/
 > 이벤트와 달리 반복 할일의 경우에는 현재 반복 할일이 완료될때 다음 반복 할일이 생성되어 표시됩니다.
 
 **<a name="a9"></a>◆ ActionAgenda 에 관한 좋은 아이디어가 있습니다!**
-> ActionAgenda 에 관한 좋은 아이디어가 있으시면 여기에 공유해주세요.
+> ActionAgenda 에 관한 좋은 아이디어가 있으시면 [여기에](http://actionagenda.idea.informer.com/) 공유해주세요.
 
 **<a name="a10"></a>◆ 여기에 없는 다른 질문이 있습니다**
-> 이 페이지에 없는 다른 질문이 있으시면 axagenda+faqs@gmail.com 로 이메일 주세요.
+> 이 페이지에 없는 다른 질문이 있으시면 [axagenda+faqs@gmail.com](mailto:axagenda+faqs@gmail.com) 로 이메일 주세요.
