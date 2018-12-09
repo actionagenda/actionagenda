@@ -9,7 +9,7 @@ name: ActionAgenda
 description: Calendar & GTD Planner for iOS
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/icon.png
+avatar: https://github.com/actionagenda/actionagenda.github.io/images/icon.png
 
 #
 # Flags below are optional
