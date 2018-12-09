@@ -3,7 +3,8 @@ layout: page
 title: Home
 permalink: /home/
 ---
-![](/images/appstore.png){: width="30%" height="30%"}{:.alignright}
+{: refdef: style="text-align: center;"}
+![](/images/appstore.png){: width="30%" height="30%"}{: refdef}
   
 When your to-do list gets bigger and complex, you need more than a simple check list.  
 You’ll want to organize them so that you know what to do next.  
