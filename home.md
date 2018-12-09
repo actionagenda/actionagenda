@@ -71,3 +71,5 @@ ActionAgenda is a hybrid calendar and to-do planner based on GTD (Getting Things
 
 GTD® and Getting Things Done® are registered trademarks of the David Allen Company.  
 ActionAgenda and Appeople are not affiliated with or endorsed by the David Allen Company.
+  
+![Donwload on the App Store](/images/appstore.png "Donwload on the App Store")
