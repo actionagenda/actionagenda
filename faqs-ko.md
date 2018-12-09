@@ -6,39 +6,25 @@ permalink: /faqs-ko/
 
 # 자주 묻는 질문 (FAQ)
 
-[◆ I cannot add Reminders to-do or project](#a1)  
-
-[◆ How do I sync Reminders to-dos from my iPhone to iPad (context, tag, etc.)?](#a2)  
-
-[◆ Weather information is empty or inaccurate](#a3)  
-
-[◆ How can I sync iOS calendar with Google calendar?](#a4)  
-
-[◆ I don’t see any calendar events in iOS 6](#a5)  
-
-[◆ How can I sync my to-dos with Toodledo?](#a6)  
-
-[◆ What is GTD?](#a7)  
-
-[◆ Does ActionAgenda support sub to-dos or outlining?](#a8)  
-
-[◆ I am only seeing this month’s events in calendar. What should I do to see all my events?](#a9)  
-
-[◆ How can I change the name of project, context, or tag?](#a10)  
-
-[◆ Is there a way to purge completed to-dos?](#a11)  
-
-[◆ I don’t see all repeating to-dos in calendar](#a12)  
-
-[◆ Is there any way to sync to-dos with Outlook?](#a13)  
-
-[◆ How can I transfer my data from lite to full version?](#a14)  
-
-[◆ I’d like to see texts in ActionAgenda in my language](#a15)  
-
-[◆ I have great ideas for ActionAgenda!](#a16)  
-
-[◆ I have other questions not listed in this FAQs](#a17)  
+[◆ 미리알림 할일 또는 프로젝트 추가가 되지 않습니다](#a1)  
+  
+[◆ iOS 캘린더와 구글 캘린더는 어떻게 동기화 하나요?](#a2)  
+  
+[◆ 날씨 정보가 표시되지 않거나 부정확합니다](#a3)  
+  
+[◆ 할일들을 Toodledo 와 어떻게 동기화 하나요?](#a4)  
+  
+[◆ GTD 란 무엇인가요?](#a5)  
+  
+[◆ 음력 기념일은 어떻게 추가 하나요?](#a6)  
+  
+[◆ 캘린더의 이벤트를 드래그 앤 드롭으로 이동할 수 있나요?](#a7)  
+  
+[◆ 캘린더에 모든 반복 할일이 표시되지 않습니다](#a8)  
+  
+[◆ ActionAgenda 에 관한 좋은 아이디어가 있습니다!](#a9)  
+  
+[◆ 여기에 없는 다른 질문이 있습니다](#a10)  
 
 
 -------
