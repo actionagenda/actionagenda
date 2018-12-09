@@ -4,7 +4,7 @@ title: Home
 permalink: /home/
 ---
 {: refdef: style="text-align: right;"}
-![](/images/appstore.png){: width="10%" height="10%"}
+![](/images/appstore.png){: width="20%" height="20%"}
 {: refdef}
   
 When your to-do list gets bigger and complex, you need more than a simple check list.  
