@@ -3,6 +3,7 @@ layout: page
 title: Home
 permalink: /home/
 ---
+![Donwload on the App Store](/images/appstore.png "Donwload on the App Store") {:.alignright}
 When your to-do list gets bigger and complex, you need more than a simple check list.  
 You’ll want to organize them so that you know what to do next.  
 You'll want to schedule it to be a calendar event if needed.  
@@ -71,5 +72,4 @@ ActionAgenda is a hybrid calendar and to-do planner based on GTD (Getting Things
 
 GTD® and Getting Things Done® are registered trademarks of the David Allen Company.  
 ActionAgenda and Appeople are not affiliated with or endorsed by the David Allen Company.
-  
-![Donwload on the App Store](/images/appstore.png "Donwload on the App Store")
+
