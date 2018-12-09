@@ -4,16 +4,16 @@ title: Home
 permalink: /home/
 ---
 
-When your to-do list gets bigger and complex, you need more than a simple check list.
-You’ll want to organize them so that you know what to do next.
-You’ll want to make a calendar event from it.
-You’ll want to overview what’s coming up in real time.ActionAgenda is a hybrid calendar and to-do planner packed with features.
-Calendar syncs with iOS Calendars which syncs with Google, Yahoo, and MS Exchange automatically.
-To-do list syncs with iOS Reminders and Toodledo at the same time.GTD (Getting Things Done) is a proven methodology to free you from stress of managing complex tasks.
+When your to-do list gets bigger and complex, you need more than a simple check list.  
+You’ll want to organize them so that you know what to do next.  
+You’ll want to make a calendar event from it.  
+You’ll want to overview what’s coming up in real time.ActionAgenda is a hybrid calendar and to-do planner packed with features.  
+Calendar syncs with iOS Calendars which syncs with Google, Yahoo, and MS Exchange automatically.  
+To-do list syncs with iOS Reminders and Toodledo at the same time.GTD (Getting Things Done) is a proven methodology to free you from stress of managing complex tasks.  
 
-◆ Here’s short how-tos on using GTD with ActionAgenda: 
+###◆ Here’s short how-tos on using GTD with ActionAgenda: 
 
-1. Put whatever comes to your mind in “Inbox”  tab
+1. Put whatever comes to your mind in “Inbox” tab
 2. Do simple actionable stuffs right away (tap on checkbox to complete)
 3. Make not-so-simple stuffs as project and break it down to smaller steps (drag it to “Project” tab)
 4. Mark which ones need attention (drag it to “Focus” tab or mark star)
