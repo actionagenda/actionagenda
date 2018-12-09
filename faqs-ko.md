@@ -1,10 +1,10 @@
 ---
 layout: page
 title: FAQs
-permalink: /faqs-en/
+permalink: /faqs-ko/
 ---
 
-# Frequently Asked Questions
+# 자주 묻는 질문 (FAQ)
 
 [◆ I cannot add Reminders to-do or project](#a1)  
 
