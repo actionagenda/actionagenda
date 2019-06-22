@@ -38,7 +38,9 @@ permalink: /faqs-en/
 
 [◆ I have great ideas for ActionAgenda!](#a16)  
 
-[◆ I have other questions not listed in this FAQs](#a17)  
+[◆ I'd like to know about ActionAgenda's Privacy Policy](#a17)  
+
+[◆ I have other questions not listed in this FAQs](#a18)  
 
 
 -------
@@ -152,6 +154,10 @@ permalink: /faqs-en/
 
 > If you have great ideas which could improve ActionAgenda, please share those [here](http://actionagenda.idea.informer.com/).
 
-**<a name="a17"></a>◆ I have other questions not listed in this FAQs**
+**<a name="a17"></a>◆ I'd like to know about ActionAgenda's Privacy Policy**
+
+> Please refer to ActionAgenda's Privacy Policy [here](https://actionagenda.github.io/privacy/).
+
+**<a name="a18"></a>◆ I have other questions not listed in this FAQs**
 
 > If you have other questions not listed in this FAQs, please email us at [axagenda+faqs@gmail.com](mailto:axagenda+faqs@gmail.com)
