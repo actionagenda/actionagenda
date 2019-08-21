@@ -60,6 +60,8 @@ permalink: /faqs-en/
 
 > You can sync extra info such as context, tag, star or manual sorting order like following:
 >
+> First, make sure you’re logged in as the same iCloud user in both devices. 
+>
 > In your iPhone, ActionAgenda Settings > Sync > Reminders Sync > turn on “Sync extra info”
 > This will make future items’ extra info in sync.
 > 
