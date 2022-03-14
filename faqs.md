@@ -4,7 +4,7 @@ title: FAQs
 permalink: /faqs-en/
 ---
 
-# 🚧 "We are unable to support the app anymore and we thank you for using ActionAgenda"
+## 🚧 "We are unable to support the app anymore and we thank you for using ActionAgenda"
 -------
 
 ### Frequently Asked Questions
