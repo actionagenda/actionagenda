@@ -4,7 +4,10 @@ title: FAQs
 permalink: /faqs-ko/
 ---
 
-# 자주 묻는 질문 (FAQ)
+# :construction: "ActionAgenda 를 더 이상 지원할 수 없게 되었음을 알려드립니다. 지금까지 사용해 주셔서 감사합니다"
+-------
+
+### 자주 묻는 질문 (FAQ)
 
 [◆ 미리알림 할일 또는 프로젝트 추가가 되지 않습니다](#a1)  
   
