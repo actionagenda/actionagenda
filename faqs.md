@@ -4,7 +4,10 @@ title: FAQs
 permalink: /faqs-en/
 ---
 
-# Frequently Asked Questions
+# :construction: "We are unable to support the app anymore and we thank you for using ActionAgenda"
+-------
+
+### Frequently Asked Questions
 
 [◆ I cannot add Reminders to-do or project](#a1)  
 
@@ -39,8 +42,6 @@ permalink: /faqs-en/
 [◆ I have great ideas for ActionAgenda!](#a16)  
 
 [◆ I'd like to know about ActionAgenda's Privacy Policy](#a17)  
-
-[◆ I have other questions not listed in this FAQs](#a18)  
 
 
 -------
@@ -160,6 +161,3 @@ permalink: /faqs-en/
 
 > Please refer to ActionAgenda's Privacy Policy [here](https://actionagenda.github.io/privacy/).
 
-**<a name="a18"></a>◆ I have other questions not listed in this FAQs**
-
-> If you have other questions not listed in this FAQs, please email us at [axagenda+faqs@gmail.com](mailto:axagenda+faqs@gmail.com)
