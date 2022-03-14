@@ -4,6 +4,9 @@ title: Privacy
 permalink: /privacy/
 ---
 
+## 🚧 "We are unable to support the app anymore and we thank you for using ActionAgenda"
+-------
+
 # Privacy Policy
 
 Your privacy is important to us. It is Appeople's policy to respect your privacy regarding any information we may collect from you through our app, ActionAgenda.
@@ -19,4 +22,3 @@ Thus it is important to realize that the service you’re using needs to comply 
 
 Your personal data is used to provide you our software, and to improve the product. Your personal data is not used for marketing purposes. We do not share, sell, barter, or rent your personal information publicly or with third-parties, except when required to by law.
 
-If you have any further questions about how we handle user data and personal information, feel free to contact us at [axagenda+privacy@gmail.com](mailto:axagenda+privacy@gmail.com).
