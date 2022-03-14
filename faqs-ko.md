@@ -27,7 +27,6 @@ permalink: /faqs-ko/
   
 [◆ ActionAgenda 에 관한 좋은 아이디어가 있습니다!](#a9)  
   
-[◆ 여기에 없는 다른 질문이 있습니다](#a10)  
 
 
 -------
@@ -70,5 +69,3 @@ permalink: /faqs-ko/
 **<a name="a9"></a>◆ ActionAgenda 에 관한 좋은 아이디어가 있습니다!**
 > ActionAgenda 에 관한 좋은 아이디어가 있으시면 [여기에](http://actionagenda.idea.informer.com/) 공유해주세요.
 
-**<a name="a10"></a>◆ 여기에 없는 다른 질문이 있습니다**
-> 이 페이지에 없는 다른 질문이 있으시면 [axagenda+faqs@gmail.com](mailto:axagenda+faqs@gmail.com) 로 이메일 주세요.
